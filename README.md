@@ -1,3 +1,3 @@
 # annapiecuch.github.io
-**Self Introduction**
+# Self Introduction
 I'm Anna Piecuch, and I am a Psychology and Journalism dual major at Lehigh University. I also play field hockey for Lehigh, and I am the Managing Editor of Community Engagement for The Brown and White newspaper on campus. 
