@@ -15,4 +15,6 @@ Here, I made an infographic on Canva to convey the top number, in millions of st
 
 <img src="https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Spotify%20weekly%20tracks.png" width="600" height="800" />
 
+# Lehigh-Lafayette Rivalry Timeline
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yfZXgKDgCis8YVdcswVyC0YPNCDXdJbl2EwUY2ERmiw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
