@@ -18,3 +18,8 @@ Here, I made an infographic on Canva to convey the top number, in millions of st
 # Lehigh-Lafayette Rivalry Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yfZXgKDgCis8YVdcswVyC0YPNCDXdJbl2EwUY2ERmiw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+# Disney Princess Movies: A Pre-2000s Timeline
+
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=100%" width="100%" frameborder="0"></iframe>
+                                
