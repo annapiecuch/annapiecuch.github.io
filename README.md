@@ -21,5 +21,5 @@ Here, I made an infographic on Canva to convey the top number, in millions of st
 
 # Disney Princess Movies: A Pre-2000s Timeline
 
-<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=100%" width="100%" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQYtGfIMXd8wSgKr71SF9yTXIWNtHaRm9D6CCKUGM7vZ9PZMpLYz9-1czyMYXKftjQf3iGRFbm-N3L/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
                                 
