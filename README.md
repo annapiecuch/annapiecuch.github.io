@@ -25,3 +25,8 @@ The timeline displays time points that reflect when Disney's first major animate
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1CvlFxa3n8RyLNo4eq3B_26aGXPl8w69qkQu21WZRpA4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ![2021 Percentage of Students in Lehigh University's Undergraduate Schools](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/2021_Percentage_of_Undergraduate_Enrollment_at_Lehigh_(Per_College)_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
+# Russia Ukraine War: Active Military Personnel According to Country
+I chose this timely topic to depict in a column chart because it reveals the overwhelming support of NATO allies in the war effort during the Russian-Ukraine War, which unfolded on February 24, 2022. The humanitarian crisis of the Russia-Ukraine War began because Russian forces attacked Ukraine's major cities in an effort to occupy the country. As of March 8, 2022, there have been 516 civilian deaths in Ukraine. As of March 10, 2022, the chart reveals the military capacity of NATO allies, Russia and Ukraine in a comparison graph. As of March 9, 2022, Poland had the highest number of refugees, hitting 1.3 million people, followed by Hungary, Slovakia and Romania. 
+
+![2022 Military Capacity in Russia-Ukraine War in Millions, as of May 2022](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Military_Capacity_in_Russia-Ukraine_War,_as_of_May_10,_2022_(In_Millions)_Active_military_personnel_chartbuilder.png?raw=true)
