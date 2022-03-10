@@ -24,4 +24,4 @@ The timeline displays time points that reflect when Disney's first major animate
                                
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1CvlFxa3n8RyLNo4eq3B_26aGXPl8w69qkQu21WZRpA4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-![Three Countries with Largest Population](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Three_Countries_with_the_Largest_Population_China_India_U.S._chartbuilder.png?raw=true)
+![2021 Percentage of Students in Lehigh University's Undergraduate Schools](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/2021_Percentage_of_Undergraduate_Enrollment_at_Lehigh_(Per_College)_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
