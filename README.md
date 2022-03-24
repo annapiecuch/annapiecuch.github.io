@@ -32,3 +32,5 @@ I chose this timely topic to depict in a column chart because it reveals the ove
 ![2022 Military Capacity in Russia-Ukraine War in Millions, as of May 2022](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Military_Capacity_in_Russia-Ukraine_War,_as_of_May_10,_2022_(In_Millions)_Active_military_personnel_chartbuilder.png?raw=true)
 
 ![Percentage of Students in Lehigh University's Undergraduate Schools in Past Five Years](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Student_Percentages_in_each_of_Lehigh's_Three_Undergraduate_Colleges_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+
+![Self-reported Life Satisfaction vs GDP per capita in 2017, according to country](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Countries'_Life_Satisfaction_vs_GDP_per_capita_(in_thousands)_in_2017__Life_Satisfaction_chartbuilder.png?raw=true)
