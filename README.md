@@ -52,6 +52,6 @@ The scatterplot below shows the association between NBA players' shoe sizes and 
 
 # Global Violent Protests in the Past 2 Years
 The map below reveals protests that escalated to high levels of violence from 2020 to 2022 across the globe. The reasons for these violent protests in diverse areas of the world vary drastically, ranging from police brutality, to military rule, to issues such as teacher pay. Recent violent protests that occurred in 2022 thus far include Belarus demonstrations in February, 2022, protesting the Russia-Ukraine war, and increasing fuel prices caused protests in Kazakhstan in January, 2022. Protests of 2020 centered upon elections and police brutality, largely. There are many, many more protests that occur globally each year, but these stand out because they share a feature of particularly dangerous violence involvement that pose more of a threat to civilians' safety and well-being.
-Source: Carnegie Endowment for International Pecae, https://carnegieendowment.org/publications/interactive/protest-tracker?
+Source: Carnegie Endowment for International Peace, found at https://carnegieendowment.org/publications/interactive/protest-tracker?
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Jv8-y1hQ5kiedKOahGtjVgBeO73R_FCe&ehbc=2E312F" width="640" height="480"></iframe>
