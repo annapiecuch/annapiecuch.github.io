@@ -46,6 +46,8 @@ The scatterplot below shows the association between NBA players' shoe sizes and 
 
 ![NBA players' Weights (in lbs.) vs Shoe Size](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/NBA_players'_Weights_(in_lbs._on_Y_axis)_vs_Shoe_Size_(X_axis)_Weight_(lbs)_chartbuilder.png?raw=true)
 
+# Top 20 Cycling Cities Globally
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1I0WLWbk-rAmQMLViNXpGySbwXWjYSQMZ&ehbc=2E312F" width="640" height="480"></iframe>
 
 # Global Violent Protests in the Past 2 Years
