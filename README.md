@@ -57,3 +57,10 @@ The map below reveals protests that escalated to high levels of violence from 20
 Source: Carnegie Endowment for International Peace, found at https://carnegieendowment.org/publications/interactive/protest-tracker?
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Jv8-y1hQ5kiedKOahGtjVgBeO73R_FCe&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+# Where Do Lehigh Students Party?
+
+The data reveals the percentages of party location preferences in 2016 at Lehigh University, according to gender. A majority of students preferred to party at off-campus houses, but when narrowing the results to gender, men preferred to party in Greek houses more, while women preferred off-campus parties more.
+
+(https://public.tableau.com/views/WhereDoLehighStudentsParty/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
