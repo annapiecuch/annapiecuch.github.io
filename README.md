@@ -19,24 +19,30 @@ Here, I made an infographic on Canva to convey the top number, in millions of st
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yfZXgKDgCis8YVdcswVyC0YPNCDXdJbl2EwUY2ERmiw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+
 # Disney Princess Movies: A Pre-2000s Timeline
 The timeline displays time points that reflect when Disney's first major animated films about princesses, specifically, were first released. The first Disney movie of all time is a princess movie, Snow White and the Seven Dwarfs, which came out in 1937. Major findings from the timeline reveal that The Little Mermaid, released in 1989, sparked a "Disney Renaissance" after a lull in Disney Studios film success. Princess movies tended to be a huge hit that helped Disney increase its revenue and build its company, as opposed to other themes and tropes used for their movies. 
-                               
+              
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>    
+              
 
 # Russia Ukraine War: Active Military Personnel According to Country
 I chose this timely topic to depict in a column chart because it reveals the overwhelming support of NATO allies in the war effort during the Russian-Ukraine War, which unfolded on February 24, 2022. The humanitarian crisis of the Russia-Ukraine War began because Russian forces attacked Ukraine's major cities in an effort to occupy the country. As of March 8, 2022, there have been 516 civilian deaths in Ukraine. As of March 9, 2022, Poland had the highest number of refugees, hitting 1.3 million people, followed by Hungary, Slovakia and Romania. As of March 10, 2022, the chart reveals the military capacity of NATO allies, Russia and Ukraine in a comparison graph.
 
 ![2022 Military Capacity in Russia-Ukraine War in Millions, as of May 2022](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Military_Capacity_in_Russia-Ukraine_War,_as_of_May_10,_2022_(In_Millions)_Active_military_personnel_chartbuilder.png?raw=true)
 
+
 # Undergraduate Student Perentages for Each of Lehigh's Three Colleges
 The chart below shows the percentages of students in each of Lehigh's undergraduate schools in the last 5 years, ranging from 2017 to 2021. The college of Arts & Sciences has seen a slight increase in enrollment, according to the line chart, in the past 5 years, while the college of Engineering as seen a slight decline. The college of Business, however, has seen little change and remains stagnant.
 
 ![Percentage of Students in Lehigh University's Undergraduate Schools in Past Five Years](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Student_Percentages_in_each_of_Lehigh's_Three_Undergraduate_Colleges_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
+
 # Self-Reported Life Satisfaction vs GDP per capita in 2017, per country
 The chart below displays data from the World Happiness Report of 2019, revealing self-reported Life Satisfaction ratings associated with each GDP per capita (in thousands) as of 2017 in various countries. Afghanistan is the lowest point on the chart, falling at 1803.98749	GDP per capita and 2.66171813 rating of Life Satisfaction, while the farthest-to-the-right point on the chart is Luxembourg, which falls at 94277.9654 GDP per capita and has a Life Satisfaction rating of 7.06138086. There is a moderately-weak, positive correlation between GDP per capita in thousands and Life Satisfaction rating for the year of 2017 among a variety of countries. Many data points representing countries fall at about 40,000 GDP/capita, in the center of the chart, with Life Satisfaction ratings falling stagnant around ratings of a 6 or 7 for the right side of the scatterplot. This reveals that for every increase in GDP in thousands per capita, there is a slightly higher/greater change in Life Satisfaction ratings until after about 40,000 GDP per capita.
 
 ![Self-reported Life Satisfaction vs GDP per capita in 2017, according to country](https://github.com/annapiecuch/annapiecuch.github.io/blob/main/Countries'_Life_Satisfaction_vs_GDP_per_capita_(in_thousands)_in_2017__Life_Satisfaction_chartbuilder.png?raw=true)
+
 
 # NBA players' Weights (in lbs.) vs Shoe Size
 The scatterplot below shows the association between NBA players' shoe sizes and their weights in pounds. There is a moderately-strong, positive correlation between shoe size and weight of players in the NBA. Trae Young, with a shoe size of 13, sticks out as a dot that falls outside of the general linear correlation because he is lighter in weight at 164 lbs, yet he has a shoe size of 13, higher than the two data points of Tony Parker and Kemba Walker at 11 and 11.5 shoe sizes. 
