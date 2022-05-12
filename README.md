@@ -17,6 +17,8 @@ Here, I made an infographic on Canva to convey the top number, in millions of st
 
 # Lehigh-Lafayette Rivalry Timeline
 
+The timeline below shows the evolution of Lehigh versus Lafayette football games, dating back to 1882, when they faced their first competition of the longest U.S. collegiate rilavry to exist. The rivalry is older than 124 years old.
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yfZXgKDgCis8YVdcswVyC0YPNCDXdJbl2EwUY2ERmiw&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
